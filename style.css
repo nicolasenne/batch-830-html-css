@@ -1,0 +1,86 @@
+/* TODO: design your profile with CSS */
+body {
+  background-color: #e3e3e3;
+}
+
+div {
+  background-color: white;
+  width: 500px;
+  padding: 30px 50px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1); 
+  margin: 20px auto;
+}
+
+h1 {
+  color: red;
+  font-size: 50px;
+  text-align: center;
+  font-family: 'Source Serif 4', sans-serif;
+}
+
+h2 {
+  color: rgba(69, 80, 238, 0.5);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+  color: #8200be;
+  letter-spacing: 4px;
+}
+
+#market-title {
+  font-size: 30px;
+  color:aquamarine;
+}
+
+.market-list {
+  color: #8200be;
+  font-size: 20px;
+}
+
+.bold, ol {
+  font-weight: bold;
+}
+
+li {
+  color: red;
+}
+
+.pokemon-list li {
+  color: orange;
+}
+
+.pokemon-list li a {
+  background-color: green;
+}
+
+p {
+  line-height: 1.6;
+  text-align: justify;
+}
+
+.btn {
+  text-decoration: none;
+  background-color: red;
+  color: white;
+  padding: 10px 40px;
+  margin: 30px;
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.btn:hover {
+  background-color: rgb(129, 0, 0);
+}
+
+i {
+  font-size: 30px;
+}
+
+img {
+  display: block;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
